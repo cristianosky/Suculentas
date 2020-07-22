@@ -1,0 +1,14 @@
+.clienimg {
+    background-color: #56ee249d;
+    text-align: center;
+    width: auto;
+    padding: 4%;
+    color: rgba(0, 0, 0, 0.781);
+    border-radius: 15px;
+    margin: 4%;
+}
+
+.imgc {
+    width: 250px;
+    border-radius: 10px;
+}

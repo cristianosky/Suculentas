@@ -1,0 +1,78 @@
+@media (min-width:765px) {
+    .caru {
+        height: 700px;
+    }
+    .footer {
+        margin-top: 100%;
+    }
+    .cac1 {
+        float: right;
+        margin-bottom: 50px;
+        position: relative;
+        margin-right: 55px;
+    }
+    .su {
+        margin-left: -115px;
+    }
+    .plantas {
+        height: 550px;
+        background-color: #56ee249d;
+    }
+    .clienimg {
+        float: right;
+        background-color: #56ee249d;
+        text-align: center;
+        position: relative;
+        width: 300px;
+        padding: 4%;
+        color: rgba(0, 0, 0, 0.781);
+        border-radius: 15px;
+        margin: 4%;
+    }
+    .imgc {
+        padding-right: 30px;
+        border-radius: 10px;
+    }
+}
+
+.item1 {
+    font-size: large;
+}
+
+.caru {
+    padding: 1%;
+}
+
+.somos {
+    padding: 2%;
+    font-size: 17px;
+    background-color: #7EE75C;
+    text-align: center;
+    border-radius: 9px;
+}
+
+.fo {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.name {
+    text-align: center;
+}
+
+.somos1 {
+    padding: 2%;
+    font-size: 17px;
+    text-align: center;
+}
+
+.cac {
+    padding: 2%;
+    align-content: center;
+    height: 410px;
+    width: 357px;
+}
+
+.plantas {
+    margin: 2%;
+}
